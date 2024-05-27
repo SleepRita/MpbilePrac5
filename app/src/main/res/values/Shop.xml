@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shop">
+        <item> Молочные продукты </item>
+        <item> Фрукты </item>
+        <item> Мясные продукты </item>
+    </string-array>
+
+    <string-array name="milk">
+        <item>Молоко</item>
+        <item>Сыр</item>
+        <item>Масло</item>
+        <item>Сметана</item>
+        <item>Кифир</item>
+        <item>Творог</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>Яблоко</item>
+        <item>Груша</item>
+        <item>Лимон</item>
+        <item>Апельсин</item>
+    </string-array>
+
+    <string-array name="meat">
+        <item>Курица</item>
+        <item>Индюшатина</item>
+        <item>Свинина</item>
+        <item>Говядина</item>
+        <item>Баранина</item>
+    </string-array>
+
+</resources>
